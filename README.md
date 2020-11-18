@@ -73,6 +73,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
+## Screenshot
+![alt text](https://github.com/hancc1006/react-portfolio.io/blob/main/src/assets/portfolio-snap.PNG?raw=true)
+![alt text](https://github.com/hancc1006/react-portfolio.io/blob/main/src/assets/portfolio-snap-01.PNG?raw=true)
+
+
 ## License
 [MIT License Used for Project](https://github.com/hancc1006/budget-pwa.io/blob/main/LICENSE?raw=false)
 
