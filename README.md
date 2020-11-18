@@ -1,3 +1,7 @@
+## Deployed
+[Heroku Deployment](https://react-portfolio-01.herokuapp.com/)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -5,7 +9,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
-
+### Please do a yarn build and then yarn install then a `yarn start`
 ### `yarn start`
 
 Runs the app in the development mode.\
@@ -68,3 +72,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## License
+[MIT License Used for Project](https://github.com/hancc1006/budget-pwa.io/blob/main/LICENSE?raw=false)
+
