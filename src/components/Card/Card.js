@@ -8,7 +8,7 @@ function Card(props) {
       <div class="col s12 m7">
         <div class="card blue-grey">
           <div class="card-image">
-            <img src={props.image}></img>
+            <img src={props.image} alt="spongebob"></img>
           </div>
           <div class="card-content">
             <h4>{props.title}</h4>
