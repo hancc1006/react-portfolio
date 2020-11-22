@@ -1,5 +1,4 @@
-import React, { useEffect, useState } from "react";
-import Sidenav from "../components/SideNav/SideNav";
+import React from "react";
 import Info from "../components/Info/homedescription";
 import Nav from "../components/Navbar/Navbar";
 import Footer from "../components/Footer/Footer";
