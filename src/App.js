@@ -9,7 +9,7 @@ function App() {
 
   return (
     <div className="App">
-      <Router>
+      <Router basename="/react-portfolio">
         <Route exact path="/" component={Home}/>
           <Route exact path="/project" component={Project}/>
           <Route exact path="/contact" component={Contact}/>
