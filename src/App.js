@@ -1,3 +1,4 @@
+import React from "react";
 import './App.css';
 import {BrowserRouter as Router, Route, Switch} from "react-router-dom";
 import Home from "./pages/Home";
@@ -13,7 +14,6 @@ function App() {
           <Route exact path="/project" component={Project}/>
           <Route exact path="/contact" component={Contact}/>
           
-        
       </Router>
       
 
