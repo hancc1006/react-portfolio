@@ -1,7 +1,5 @@
 import React from "react";
 import "./home.css";
-import Profile from "../Profile/Profile";
-import Nav from "../Navbar/Navbar";
 import {Link} from "react-router-dom";
 function HomeDescription(){
     return(
